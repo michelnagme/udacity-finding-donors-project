@@ -5,7 +5,7 @@ This repository contains files for a project completed as part of Machine Learni
 ## Table of Contents
 
 1. [Motivation](#motivation)
-2. [File descriptions](#files)
+2. [File descriptions](#filesdescriptions)
 3. [Data](#data)
 4. [Install](#install)
 5. [Run](#run)
@@ -14,7 +14,7 @@ This repository contains files for a project completed as part of Machine Learni
 
 The objective in this project was to employ supervised learning algorithms to accurately model individuals' income using data collected from the 1994 U.S. Census, then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. The goal is to construct a model that accurately predicts whether an individual makes more than $50,000. This sort of task can arise in a non-profit setting, where organizations survive on donations. Understanding an individual's income can help a non-profit better understand how large of a donation to request, or whether or not they should reach out to begin with. While it can be difficult to determine an individual's general income bracket directly from public sources, we can infer this value from other publically available features.
 
-## Files description <a name="files"></a>
+## Files description <a name="filesdescriptions"></a>
 
 * `finding_donors.ipynb` is the notebook with all analysis and results. A HTML version of the notebook is `index.html`, available online at https://michelnagme.github.io/udacity-finding-donors-project/
 * The dataset used to complete this task is `census.csv`
