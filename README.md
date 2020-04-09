@@ -1,6 +1,6 @@
 # Udacity Project: Finding Donors for CharityML
 
-This repository contains the data, code and analysis of the possibility of rainfalls being a cause the one of the greatest natural disasters in history. The code is part of notebooks, which also bring the analysis and conclusions.
+This repository contains files for a project completed as part of Machine Learning Introduction Nanodegree at Udacity.
 
 ## Table of Contents
 
