@@ -1,4 +1,4 @@
-# Udacity Project: Finding Donors for CharityML
+# Finding Donors for CharityML
 
 This repository contains files for a project completed as part of Machine Learning Introduction Nanodegree at Udacity.
 
